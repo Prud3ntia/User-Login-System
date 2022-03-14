@@ -1,0 +1,22 @@
+.navbar {
+    background-color: rgb(233, 39, 233) !important;
+    height: 75px;
+}
+
+.nav-link {
+    color: white !important;
+}
+
+.navbar-brand {
+    color: white !important;
+}
+
+.jumbotron {
+    margin: 4rem !important;
+}
+
+.btn-primary {
+    background-color: rgb(233, 39, 233) !important;
+    border: none;
+}
+
